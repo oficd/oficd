@@ -30,11 +30,9 @@ I'm an ordinary programmer interested in software development, particularly back
 **Database**
 - PostgreSQL
 - MySQL
-- SQLite
 
 **Tools & Environment**
 - Git & GitHub
-- Docker
 - Linux
 - Postman
 
